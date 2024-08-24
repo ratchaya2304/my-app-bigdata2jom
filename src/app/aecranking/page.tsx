@@ -1,10 +1,10 @@
 import React from 'react';
-import About from '../../compoments/About';
+import AECRankinr from '../../compoments/AECRankinr';
 
 export default function page() {
   return (
     <div>
-      <About />
+      <AECRankinr />
     </div>
   );
 }

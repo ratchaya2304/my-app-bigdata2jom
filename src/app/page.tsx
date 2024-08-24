@@ -1,5 +1,5 @@
 import React from 'react';
-import Landingpage from './compoment/Landingpage';
+import Landingpage from '../compoments/Landingpage';
 
 export default function Home() {
   return (

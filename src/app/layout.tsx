@@ -1,8 +1,8 @@
 import type { Metadata } from 'next';
 import { Kanit } from 'next/font/google';
 import './globals.css';
-import Navbar from './compoment/Navbar';
-import Footer from './compoment/Footer';
+import Navbar from '../compoments/Navbar';
+import Footer from '../compoments/Footer';
 
 const kanit = Kanit({
   subsets: ['latin'],
